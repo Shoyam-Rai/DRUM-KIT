@@ -6,6 +6,9 @@ Welcome to the Drum Kit project! This interactive web application allows users t
 
 Features
 Interactive Drum Sounds: Play drum sounds by pressing specific keys on your keyboard or by clicking on the drum elements displayed on the screen.
+
 Visual Feedback: Each drum element provides visual feedback when activated, enhancing the user experience.
+
 Responsive Design: The application is fully responsive, ensuring a seamless experience across different devices and screen sizes.
+
 Customizable Sounds: Easily replace drum sounds with your own audio files to create a personalized drumming experience.
